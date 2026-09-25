@@ -1,0 +1,12 @@
+{
+  "name": "problem8",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo Test Script Running",
+    "hello": "echo Hello Student",
+    "welcome": "echo Welcome to NodeJS",
+    "author": "echo Created by Jay Patel"
+  }
+}

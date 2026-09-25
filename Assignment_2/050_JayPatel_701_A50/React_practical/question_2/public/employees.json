@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Jay Patel",
+        "email": "jay@gmail.com",
+        "department": "IT",
+        "salary": 50000
+    },
+    {
+        "id": 2,
+        "name": "Rahul Shah",
+        "email": "rahul@gmail.com",
+        "department": "HR",
+        "salary": 45000
+    },
+    {
+        "id": 3,
+        "name": "Priya Patel",
+        "email": "priya@gmail.com",
+        "department": "Finance",
+        "salary": 55000
+    },
+    {
+        "id": 4,
+        "name": "Amit Shah",
+        "email": "amit@gmail.com",
+        "department": "IT",
+        "salary": 60000
+    }
+]
